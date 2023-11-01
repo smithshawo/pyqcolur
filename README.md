@@ -1,2 +1,1 @@
-# pyqcolur
-python library for colors
+Documentation: https://github.com/smithshawo/pyqcolur
